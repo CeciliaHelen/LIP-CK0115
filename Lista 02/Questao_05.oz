@@ -1,5 +1,8 @@
 /*Questão 05*/
 
+/*Tentando executar linha por linha antes de rodar o código, é possível identicar a seguinte
+sequência de resultados: 4 -> 5 -> 2 -> 5 -> 5 -> 1 -> 4 -> 1 -> 6*/
+
 %os resultados bateram ao fim do teste
 declare Test
 proc {Test X}
