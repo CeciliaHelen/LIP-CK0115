@@ -1,4 +1,4 @@
-/*Questão 01*/
+/*Questão 02*/
 %N não existindo no meio ambiente na chamada
 declare A = 10 B
 local MulByN in
